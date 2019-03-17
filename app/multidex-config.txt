@@ -1,0 +1,3 @@
+com/cxz/hotfix/sample/MainActivity.class
+com/cxz/hotfix/sample/BaseActivity.class
+com/cxz/hotfix/sample/BaseApplication.class
